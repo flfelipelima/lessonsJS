@@ -15,7 +15,7 @@
   Em ambos os casos, mostre uma mensagem com o nome do aluno e a nota -->
 
 
-<!-- LESSON 2 - Jogo da advinhação
+<!-- LESSON 3 - Jogo da advinhação
 
 Apresente a mensagem ao usuário:
 "Advinhe o número que estou pensando? Está entre 0 e 10"
