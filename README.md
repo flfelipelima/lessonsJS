@@ -1,8 +1,8 @@
 # Lessons
 
 1. Calculando a média de um estudante;
-2. 
-3. Jogo da adivinhação;
+2. Criando lista de compras;
+3. Jogo da adivinhação.
 
 <p>Introdução à programação, lógica e algoritmos em Javascript.</p>
 
@@ -26,6 +26,18 @@
 
 ```
 
+## 2. Criando lista de compras
+
+### Estrutura de dados
+- Organização e gerenciamento dos dados
+- Melhor eficiência do código
+- Estruturas de repetição
+- Laço de repetição ``` for ```
+- Vetores (Arrays)
+- Tipo de dado estruturado
+- Incremental (++): o valor + 1
+- Tipo de dado: undefined
+
 ## 3. Jogo da adivinhação
 <p>Nessa aula aprenderemos sobre:</p>
 
@@ -46,4 +58,6 @@
 - Pacote com funcionalidades para o console do devtools (browser)
 - Template literals ou template strings
 - Interpolação de dados
+
+
 
